@@ -26,25 +26,6 @@ post_class: post-template
             </section>
         </header>
 
-<!--         <header class="post-header">
-            <a id="blog-logo" href="{{site.url}}">
-                {% if site.logo %}
-                    <img src="{{site.logo}}" alt="{{ site.name }}" />
-                {% else %}
-                    <span class="blog-title">{{ site.name }}</span>
-                {%endif%} 
-            </a>
-        </header> -->
-        
-        <!-- <span class="post-meta">
-            <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
-            {% if page.categories.size > 0 %} 
-                {{ page.categories | array_to_sentence_string | prepend: 'on ' }} 
-            {% endif %}
-        </span> -->
-
-        <!-- <h1 class="post-title">{{ page.title }}</h1> -->
-
         <section class="post-content">
             {{content}}
         </section>
@@ -59,6 +40,18 @@ post_class: post-template
             </ul>
         </section>
         {% endif %}
+
+		<ul class="previous-next">
+        {% if page.previous %}
+        	<li class="prev"><a class="internal" rel="prev"  href="{{ page.previous.url }}" title="View {{ page.previous.title }}">&laquo; {{ page.previous.title }}</a></li>
+         {% endif %}
+         {% if page.previous and page.next %}
+         	<li class="pipe"> | </li>
+         {% endif %}
+         {% if page.next %}
+         	<li class="next"><a class="internal" rel="next"  href="{{ page.next.url }}" title="View {{ page.next.title }}">{{ page.next.title }} &raquo;</a></li>
+         {% endif %}	
+		</ul>
 
         <footer class="post-footer">
             <!-- If we want to display author's name and bio -->

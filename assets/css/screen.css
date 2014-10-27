@@ -1782,4 +1782,18 @@ body:not(.post-template) .post-title {
 .subscribe-button {
 	display: block !important;
 }
+.previous-next {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.previous-next li {
+	display: inline;
+}
+.previous-next .prev {
+	float: left;
+}
+.previous-next .next {
+	float: right;
+}
 
