@@ -1785,7 +1785,7 @@ body:not(.post-template) .post-title {
 .previous-next {
 	list-style-type: none;
 	margin: 0;
-	padding: 0;
+	padding: 0 0 3px 0;
 }
 .previous-next li {
 	display: inline;
