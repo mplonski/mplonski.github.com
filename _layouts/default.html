@@ -38,21 +38,13 @@
 
 {% if page.next != nil or page.previous != nil %}
 <div id="fb-root"></div>
-<script>
-    $(document).ready(function(){
-        width = $('#blog-entry-fix').width() * 0.9;
-        fbxml = '<div class="fb-like" data-href="http://blog.sokoli.pl{{ page.url }}" data-send="true" data-width="' + width + '" data-show-faces="true"> </div>';
-        //fbxml = fbxml + '<div class="fb-comments" data-href="http://blog.sokoli.pl{{ page.url }}" data-width="' + width + '" data-num-posts="3"> </div>';
-        $('#fbcomment').append(fbxml);
-        (function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    });
-</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=483199981763398&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 {% endif %}
 
     {{ content }}
