@@ -1,0 +1,19 @@
+permalink: /:year/:month/:day/:title/
+production_url: http://blog.sokoli.pl
+
+name: blog.sokoli
+description:
+meta_description: "Blog.sokoli. Podróże, muzyka, inne."
+
+# markdown: redcarpet
+highlighter: pygments
+logo: true
+paginate: 3
+baseurl: /
+domain_name: 'http://blog.sokoli.pl/'
+
+# Details for the RSS feed generator
+url:            'http://blog.sokoli.pl/'
+author:         'Maciej Płoński'
+
+disquos: True
