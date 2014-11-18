@@ -16,5 +16,5 @@ Mam pewien zwyczaj - nazywam bliskie mi rzeczy, dopiero wtedy mogą oficjalne st
 
 Niestety nie znalazłem Itaki w sieci, a prawo autorskie zabrania wrzucania kopii, więc zapytałem osobę, która bezpośrednio wpłynęła na wybór tego imienia (w sumie to sama wybrała, a ja zaakceptowałem, ale przepisy mówią, że sam muszę oficjalnie nadać nazwę, więc musi być, że ja nadałem), co by tutaj wrzucić. Przed Państwem - Spinakerzy wykonujący Szeklę „jako współczesną metaforę dotyczącą próby zrozumienia co kobieta ma na myśli”. Polecam odnaleźć tekst i dokładnie się w niego wczytać :-)
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/g20M-dNbcMU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/g20M-dNbcMU" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 
