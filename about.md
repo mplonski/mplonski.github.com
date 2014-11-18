@@ -9,7 +9,7 @@ Jestem <a href="http://sokoli.pl/">mplonski</a>, a Ty znajdujesz się na moim bl
 
 <p>Jeśli jesteś <strong>zainteresowany kontaktem</strong>, daj proszę znać na info [małpiszon] sokoli.pl, a postaram się możliwie szybko odpisać. Osoby chcące dać mi pieniądzę, używające linuxa i kochające turystykę mają u mnie pierwszeństwo.</p>
 
-<p>Można mnie złapać na <a href="https://www.facebook.com/maciejplonski">fejsie</a>, <a href="https://github.com/mplonski/">githubie</a>, <a href="http://www.flickr.com/photos/mplonski/">flickrze</a>, <a href="http://www.lastfm.pl/user/maciejplonski">last.fm</a> i kilku innych. Uprzedzam, że jestem z natury leniwy i nie akceptuję zaproszeń do znajomych od osób, których nie znam osobiście (po coś jest ta opcja śledzenia).</p>
+<p>Można mnie złapać na <a href="https://www.facebook.com/maciejplonski">fejsie</a>, <a href="https://github.com/mplonski/">githubie</a>, <a href="http://www.flickr.com/photos/mplonski/">flickrze</a>, <a href="https://www.goldenline.pl/maciej-plonski2/">goldenline</a> i kilku innych. Uprzedzam, że jestem z natury leniwy i nie akceptuję zaproszeń do znajomych od osób, których nie znam osobiście (po coś jest ta opcja śledzenia).</p>
 
 <p><strong>Preferuję kontakt mailowy.</strong> W przypadku braku odpowiedzi proszę o ponowne wysłanie wiadomości, tak dla pewności. Więcej nie ma sensu, ponieważ mogę być na dłuższym wyjeździe i wrócić dopiero za miesiąc lub dwa.</p>
 
