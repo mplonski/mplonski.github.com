@@ -76,6 +76,18 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 
-    </script>   
+  </script>   
+
+  <script type="text/javascript">
+      var _nstat_id = '123456';
+
+      var nstat_js = document.createElement('script');
+      nstat_js.type = 'text/javascript';
+      nstat_js.async = true;
+      nstat_js.src = 'https://ssl.nstat.pl/tracker.js';
+      s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(nstat_js, s);
+    </script>
+
 </body>
 </html>
