@@ -66,7 +66,6 @@ Oczywiście można zamiast tego omawiać dokładnie koncepcję każdego kawałka
 ==================================
 
 Po kolei:
-
 - analiza rozwiązań
 - testy możliwych rozwiązań, wybór jednego
 - przemyślenie implementacji
