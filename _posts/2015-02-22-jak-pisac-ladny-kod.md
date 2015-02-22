@@ -67,15 +67,15 @@ Oczywiście można zamiast tego omawiać dokładnie koncepcję każdego kawałka
 
 Po kolei:
 
-* analiza rozwiązań
-* testy możliwych rozwiązań, wybór jednego
-* przemyślenie implementacji
-* implementacja
-* napisanie testów, testy, poprawki
-* refactoring
-* skierowanie do code review
-* poprawki po code review
-* skierowanie na produkcję
+- analiza rozwiązań
+- testy możliwych rozwiązań, wybór jednego
+- przemyślenie implementacji
+- implementacja
+- napisanie testów, testy, poprawki
+- refactoring
+- skierowanie do code review
+- poprawki po code review
+- skierowanie na produkcję
 
 Myślicie, że jak wygląda podział czasu? Implementacja zajmuje dużo? Nie, najwięcej zajmuje refactoring własnego kodu i poprawki po code review. Bo nasz kod ma nie tylko działać, ale też ładnie wyglądać, aby patrząc na niego za pół od razu od razu było wiadomo o co chodzi.
 
