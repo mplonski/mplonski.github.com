@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "muzyczne co nieco: niektóre piosenki mają moc"
-date: 2015-01-04 15:00:00
+date: 2015-05-20 11:00:00
 category: muzyczne-co-nieco
 tags: [muzyka, Andrzej Koczewski, Leonard Luther]
 
