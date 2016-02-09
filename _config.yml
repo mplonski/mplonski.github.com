@@ -1,19 +1,19 @@
 permalink: /:year/:month/:day/:title/
-production_url: http://blog.sokoli.pl
+production_url: http://mplonski.github.co/
 
 name: blog.sokoli
 description:
 meta_description: "Blog.sokoli. Podróże, muzyka, inne."
 
 # markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 logo: true
 paginate: 3
 baseurl: /
-domain_name: 'http://blog.sokoli.pl/'
+domain_name: 'http://mplonski.github.co/'
 
 # Details for the RSS feed generator
-url:            'http://blog.sokoli.pl/'
+url:            'http://mplonski.github.co/'
 author:         'Maciej Płoński'
 
 disquos: True
